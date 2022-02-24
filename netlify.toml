@@ -20,7 +20,7 @@
   to = "https://api.daily.co/v1/rooms"
   status = 200
   force = true
-  headers = {Authorization = "Bearer DAILY_API_KEY_PLACEHOLDER"}
+  headers = {Authorization = "Bearer f7e47f336cc129e84bc15aeb438ce3760091d15227a99437071cf89508341cc8"}
 
 # The following redirect is intended for use with most SPAs that handle routing internally.
 [[redirects]]
